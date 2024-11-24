@@ -1,4 +1,4 @@
-Hello visitors:I am devil aka Rajat Dash
+Hello visitors: I am devil aka Rajat Dash
 here to share you all with various python codes
 that I hope to you all a lot...
 
