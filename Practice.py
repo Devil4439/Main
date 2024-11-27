@@ -9,6 +9,6 @@ def function (n):
       fact*=i
     return fact
 num=int(input("Enter a number:"))
-print(f"THE FACTORIAL OF {num} IS:",fact)
+print(f"THE FACTORIAL OF {num} IS",fact)
               
   
